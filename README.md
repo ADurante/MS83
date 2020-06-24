@@ -15,7 +15,7 @@ Questo è il file in formato *STL*:
 
 ## Descrizione
 
-**MS83 Ears Support for Mask** (d'ora in poi "**MS83**") è un prototipo progettato e sviluppato per essere da supporto ai padiglioni auricolari quando vengono indossate le *maschere facciali*, ma questo non è l'unico scopo a cui mira. L'**MS83** ha nel suo concept elementi quali la semplicità, l'immediatezza di utilizzo, la versatilità e la minor invasività possibile, tutto ciò non a scapito della sua estetica. Si presenta come un dispositivo fine, dalla linea pulita e molto versatile. Esso mira ad assolvere ai seguenti compiti:
+**MS83 Ears Support for Mask** (d'ora in poi "**MS83**") è un prototipo progettato e sviluppato per essere da supporto ai *padiglioni auricolari* quando vengono indossate le *maschere facciali*, ma questo non è l'unico scopo a cui mira. L'**MS83** ha nel suo concept elementi quali la semplicità, l'immediatezza di utilizzo, la versatilità e la minor invasività possibile, tutto ciò non a scapito della sua estetica. Si presenta come un dispositivo fine, dalla linea pulita e molto versatile. Esso mira ad assolvere ai seguenti compiti:
 
 - eliminare il peso a carico della cartilagine dei *padiglioni auricolari*;
 - tenere la *maschera facciale* ferma in posizione, senza permettere che la stessa scenda verso il basso;
