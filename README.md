@@ -2,6 +2,8 @@
 
 ![MS83 Ears Support for Mask v1 Solid](/images/MS83%20Ears%20Support%20for%20Mask%20v1.png "MS83 Ears Support for Mask v1 - Solid Preview")
 
+![MS83 Ears Support for Mask v1 Photo](/images/MS83%20v1%20-%20wear.jpg "MS83 Ears Support for Mask v1 - Photo Preview")
+
 ## Premessa
 
 Il prototipo può essere stampato in completa autonomia, qualora possediate una *stampante 3D* e siate pratici, con il metodo di **produzione additiva** oppure fatto stampare da chi fornisce questa tipologia di servizi di stampa, mediante il file in formato *STL* ("STereoLithography") che ho rilasciato in questo *[repository](https://github.com/ADurante/MS83 "MS83 repository")*. Qui nella documentazione si fa riferimento al materiale **consigliato** per realizzarlo, assieme alle caratteristiche e altre informazioni relativo allo stesso. **Ricordate sempre che è un prototipo in fase sperimentale e, come tale, non fornisce alcuna garanzia, né io mi assumo alcuna responsabilità per eventuali problematiche derivanti dal suo utilizzo.**
@@ -26,6 +28,8 @@ La sigla del prototipo è anche un richiamo alla serie anime "[Mobile Suit Gunda
 
 ## Modi di utilizzo
 Partiamo dal fatto che non c'è un unico modo di utilizzo corretto del supporto, ma esso varia molto da un soggetto all'altro, in base alle caratteristiche anatomiche di ognuno di noi e alla comodità. Addirittura, si potrebbe pensare di "**bypassare**" i *padiglioni auricolari*, agganciando gli *elastici* in maniera che passino o appena sotto o appena sopra gli stessi (**consigliato**).
+
+![MS83 Ears Support for Mask v1 Wear](/images/MS83%20v1%20-%20how%20to%20use.gif "MS83 Ears Support for Mask v1 - How to Use")
 
 ## Caratteristiche supporto
 
