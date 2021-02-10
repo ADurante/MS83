@@ -78,6 +78,4 @@ Questo prototipo è adatto a tutti: in primis, al **personale sanitario** impegn
 
 ## Donazioni
 
-Questo prototipo viene rilasciato in maniera completamente gratuita sotto licenza **[GNU General Public License v3.0](/LICENSE "Project's License")** (**GPLv3**), ma qualora vogliate contribuire con una donazione potete farlo tramite [PayPal](https://www.paypal.me/AlessioDurante "Alessio's PayPal") inserendo "**MS83**" nel messaggio. Qui sotto per scansionare direttamente il **QR code**:
-
-![PayPal QR Code](/images/pp_my_qrcode.jpg "Alessio's PayPal QR Code")
+Questo prototipo viene rilasciato in maniera completamente gratuita sotto licenza **[GNU General Public License v3.0](/LICENSE "Project's License")** (**GPLv3**), ma qualora vogliate contribuire con una donazione potete farlo tramite [PayPal](https://www.paypal.me/AlessioDurante "Alessio's PayPal") inserendo "**MS83**" nel messaggio.
