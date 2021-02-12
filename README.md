@@ -3,6 +3,7 @@
 ![MS83 Ears Support for Mask v2 Solid](/images/MS83%20Ears%20Support%20for%20Mask%20v2.png "MS83 Ears Support for Mask v2 - Solid Preview")
 
 ![MS83 Ears Support for Mask v1 Photo](/images/MS83%20v1%20-%20wear.jpg "MS83 Ears Support for Mask v1 - Photo Preview")
+
 **N.B.:** l'anteprima fotografica dove viene indossato è stata fatta sulla versione precedente del prototipo.
 
 ## Indice
@@ -47,7 +48,8 @@ La sigla del prototipo è anche un richiamo alla serie anime "[Mobile Suit Gunda
 ## <a id="5"></a>Modi di utilizzo
 Partiamo dal fatto che non c'è un unico modo di utilizzo corretto del supporto, ma esso varia molto da un soggetto all'altro, in base alle caratteristiche anatomiche di ognuno di noi e alla comodità. Addirittura, si potrebbe pensare di "**bypassare**" i *padiglioni auricolari*, agganciando gli *elastici* in maniera che passino o appena sotto o appena sopra gli stessi (**consigliato**).
 
-![MS83 Ears Support for Mask v1 Wear](/images/MS83%20v1%20-%20how%20to%20use.gif "MS83 Ears Support for Mask v1 - How to Use")<sup>*</sup>
+![MS83 Ears Support for Mask v1 Wear](/images/MS83%20v1%20-%20how%20to%20use.gif "MS83 Ears Support for Mask v1 - How to Use")
+
 **N.B.:** l'anteprima fotografica dove viene indossato è stata fatta sulla versione precedente del prototipo.
 
 ## <a id="6"></a>Misure supporto
