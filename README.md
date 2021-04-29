@@ -130,4 +130,4 @@ Questo prototipo è adatto a tutti: in primis, al **personale sanitario** impegn
 
 ## <a id="12"></a>Donazioni
 
-Questo prototipo viene rilasciato in maniera completamente gratuita sotto licenza **[GNU General Public License v3.0](/LICENSE "Project's License")** (**GPLv3**), ma qualora vogliate contribuire con una donazione potete farlo tramite [PayPal](https://www.paypal.me/AlessioDurante "Alessio's PayPal") inserendo "**MS83**" nel messaggio.
+Questo prototipo viene rilasciato in maniera completamente gratuita sotto licenza **[GNU General Public License v3.0](/LICENSE "Project's License")** (**GPLv3**), ma qualora vogliate contribuire potete farlo con donazioni **ricorrenti** su [Liberapay](https://liberapay.com/AlessioDurante "Alessio's Liberapay") (**potete modificare e/o disdire quando volete**), oppure, **una tantum** sempre attraverso [PayPal](https://paypal.me/AlessioDurante "Alessio's PayPal"), inserendo "**MS83**" come messaggio.
