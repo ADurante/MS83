@@ -4,130 +4,133 @@
 
 ![MS83 Ears Support for Mask v1 Photo](/images/MS83%20v1%20-%20wear.jpg "MS83 Ears Support for Mask v1 - Photo Preview")
 
-**N.B.:** l'anteprima fotografica dove viene indossato è stata fatta sulla versione precedente del prototipo.
+**N.B.:** the photo preview where it is worn was made on the previous version of the prototype.
 
-## Indice
-- <a href="#1">Premessa</a>
-- <a href="#2">Prototipo da scaricare</a>
-- <a href="#3">Descrizione</a>
-- <a href="#4">Storia</a>
-- <a href="#5">Modi di utilizzo</a>
-- <a href="#6">Misure supporto</a>
-- <a href="#7">Materiale v1</a>
-  - <a href="#7.1">Immagine MS83 v1 con relativa flessibilità</a>
-- <a href="#8">Materiale v2</a>
-  - <a href="#8.1">Immagine MS83 v2 con relativa flessibilità</a>
-- <a href="#9">Altri materiali</a>
-  - <a href="#9.1">Immagine MS83 v0 con relativa flessibilità</a>
-- <a href="#10">Qual è la differenza con gli altri supporti?</a>
-- <a href="#11">A chi è rivolto?</a>
-- <a href="#12">Donazioni</a>
+## Index
+- <a href="#1">Premise</a>
+- <a href="#2">Download prototype</a>
+- <a href="#3">Description</a>
+- <a href="#4">History</a>
+- <a href="#5">Ways of use</a>
+- <a href="#6">Support measures</a>
+- <a href="#7">Material v1</a>
+  - <a href="#7.1">MS83 v1 image with relative flexibility</a>
+- <a href="#8">Material v2</a>
+  - <a href="#8.1">MS83 v2 image with relative flexibility</a>
+- <a href="#9">Other materials</a>
+  - <a href="#9.1">MS83 v0 image with relative flexibility</a>
+- <a href="#10">What is the difference with the other supports?</a>
+- <a href="#11">Who is it aimed at?</a>
+- <a href="#12">Donations</a>
 
-## <a id="1"></a>Premessa
+## <a id="1"></a>Premise
 
-Il prototipo può essere stampato in completa autonomia, qualora possediate una *stampante 3D* e siate pratici, con il metodo di **produzione additiva** oppure fatto stampare da chi fornisce questa tipologia di servizi di stampa, mediante il file in formato *STL* ("STereoLithography") che ho rilasciato in questo *[repository](https://github.com/ADurante/MS83 "MS83 repository")*. Qui nella documentazione si fa riferimento al materiale **consigliato** per realizzarlo, assieme alle caratteristiche e altre informazioni relativo allo stesso. **Ricordate sempre che è un prototipo in fase sperimentale e, come tale, non fornisce alcuna garanzia, né io mi assumo alcuna responsabilità per eventuali problematiche derivanti dal suo utilizzo.**
+The prototype can be printed in complete autonomy, if you have a *3D printer* and you are practical, with the method of **additive manufacturing** or printed by those who provide this type of printing services, using the file in *STL* ("STereoLithography") format that I have released in this *[repository](https://github.com/ADurante/MS83 "MS83 repository")*. Here in the documentation is referred to the material **recommended** to make it, along with the characteristics and other informations relating to the same.
 
-## <a id="2"></a>Prototipo da scaricare
+**Always remember that it is a prototype in experimental phase and, as such, it does not provide any guarantee, nor I assume any responsibility for any problems arising from its use.**
 
-Questo è il file in formato *STL*:
+## <a id="2"></a>Download prototype
+
+This is the file in *STL* format:
 **[DOWNLOAD](/MS83%20Ears%20Support%20for%20Mask%20v2.stl "MS83 v2 Download's Link")**
 
-## <a id="3"></a>Descrizione
+## <a id="3"></a>Description
 
-**MS83 Ears Support for Mask** (d'ora in poi "**MS83**") è un prototipo progettato e sviluppato per essere da supporto ai *padiglioni auricolari* quando vengono indossate le *maschere facciali*, ma questo non è l'unico scopo a cui mira. L'**MS83** ha nel suo concept elementi quali la semplicità, l'immediatezza di utilizzo, la versatilità e la minor invasività possibile, tutto ciò non a scapito della sua estetica. Si presenta come un dispositivo fine, dalla linea pulita e molto versatile. Esso mira ad assolvere ai seguenti compiti:
+**MS83 Ears Support for Mask** (henceforth "**MS83**") is a prototype designed and developed to be a support for the *ear cups* when wearing *face masks*, but this is not the only purpose to which it aims. The **MS83** has in its concept elements such as simplicity, immediacy of use, versatility and the least invasiveness possible, all this not at the expense of its aesthetics. It looks like a fine device, with a clean line and very versatile. It aims to perform the following tasks:
 
-- eliminare il peso a carico della cartilagine dei *padiglioni auricolari*;
-- tenere la *maschera facciale* ferma in posizione, senza permettere che la stessa scenda verso il basso;
-- ausiliare, per facilitare un corretto utilizzo della *maschera facciale*;
-- alleviare i fastidi e disagi annessi all'utilizzo delle *maschere facciali* in genere, promuovendo sempre un corretto utilizzo delle stesse.
+- eliminate weight bearing on the cartilage of the *ear cups*;
+- hold the *face mask* firmly in place, without allowing it to drop downward;
+- assist in the proper use of the *face mask*;
+- to alleviate the discomfort and inconvenience associated with the use of *face masks* in general, always promoting their correct use.
 
-## <a id="4"></a>Storia
+## <a id="4"></a>History
 
-La sigla del prototipo è anche un richiamo alla serie anime "[Mobile Suit Gundam 0083: Stardust Memory](https://it.wikipedia.org/wiki/Mobile_Suit_Gundam_0083:_Stardust_Memory "Mobile Suit Gundam 0083: Stardust Memory Wikipedia")" di [Yoshiyuki Tomino](https://it.wikipedia.org/wiki/Yoshiyuki_Tomino "Yoshiyuki Tomino Wikipedia"), prodotta dallo studio di animazione giapponese [Sunrise](https://www.sunrise-inc.co.jp/international/ "Sunrise International's Official Website"). Molto brevemente, i **Mobile Suit** sono dei grandi robot da combattimento, ad uso militare, noti per il loro **supporto** durante la guerra. Questo, mi fornisce lo spunto per il nome del prototipo e per la sua "guerra" assieme alle maschere facciali che sono una delle principali "armi" utilizzate per contrastare il [COVID-19](https://it.wikipedia.org/wiki/COVID-19 "COVID-19 Wikipedia") (COronaVIrus Disease 2019).
+The name of the prototype is also a reference to the anime series "[Mobile Suit Gundam 0083: Stardust Memory](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam_0083:_Stardust_Memory "Mobile Suit Gundam 0083: Stardust Memory Wikipedia")" by [Yoshiyuki Tomino](https://en.wikipedia.org/wiki/Yoshiyuki_Tomino "Yoshiyuki Tomino Wikipedia"), produced by the Japanese animation studio [Sunrise](https://www.sunrise-inc.co.jp/international/ "Sunrise International's Official Website"). Very briefly, **Mobile Suits** are large combat robots, for military use, known for their **support** during warfare. This, gives me the cue for the name of the prototype and its "warfare" along with the *face masks* that are one of the main "weapons" used to counter the [COVID-19](https://en.wikipedia.org/wiki/COVID-19 "COVID-19 Wikipedia") (COronaVIrus Disease 2019).
 
-## <a id="5"></a>Modi di utilizzo
-Partiamo dal fatto che non c'è un unico modo di utilizzo corretto del supporto, ma esso varia molto da un soggetto all'altro, in base alle caratteristiche anatomiche di ognuno di noi e alla comodità. Addirittura, si potrebbe pensare di "**bypassare**" i *padiglioni auricolari*, agganciando gli *elastici* in maniera che passino o appena sotto o appena sopra gli stessi (**consigliato**).
+## <a id="5"></a>Ways of use
+
+Let's start from the fact that there is not only one way to use the support correctly, but it varies a lot from one subject to another, according to the anatomical characteristics of each of us and to the comfort. Even, you could think of "bypassing" the *ear cups*, hooking the *elastic* so that they pass either just below or just above it (**recommended**).
 
 ![MS83 Ears Support for Mask v1 Wear](/images/MS83%20v1%20-%20how%20to%20use.gif "MS83 Ears Support for Mask v1 - How to Use")
 
-**N.B.:** l'anteprima fotografica dove viene indossato è stata fatta sulla versione precedente del prototipo.
+**N.B.:** the photo preview where it is worn was done on the previous version of the prototype.
 
-## <a id="6"></a>Misure supporto
+## <a id="6"></a>Support measures
 
-- Lunghezza: *120.00 mm*
-- Larghezza: *20.00 mm*
-- Altezza: *10.30 mm*
-- Spessore: *2.00 mm*
-- Peso: *9.15 g*
+- Length: *120.00 mm*
+- Width: *20.00 mm*
+- Height: *10.30 mm*
+- Thickness: *2.00 mm*
+- Weight: *9.15 g*
 
-**Ganci:**
+**Hooks**
 
-- Lunghezza: *12.04 mm*
-- Larghezza: *10.00 mm*
-- Altezza: *7.07 mm*
-- Spessore: *2.00 mm*
+- Length: *12.04mm*
+- Width:*10.00 mm*
+- Height: *7.07 mm*
+- Thickness: *2.00 mm*
 
-## <a id="7"></a>Materiale v1
+## <a id="7"></a>Material v1
 
-Il materiale utilizzato e consigliato per realizzare la prima versione del prototipo per **usi quotidiani**/**a basso rischio da contaminazione** è stato [BIOFLEX Antibatterico by FILOALFA®](https://www.filoalfa3d.com/it/content/43-bioflex-antibatterico "BIOFLEX Antibacterial's Link"). Di seguito, le principali caratteristiche:
+The material used and recommended to make the first version of the prototype for daily use in **low risk of contamination** environments was [BIOFLEX Antibacterial by FILOALFA®](https://www.filoalfa3d.com/gb/content/43-bioflex-Antibacterial "BIOFLEX Antibacterial's Link"). Below are the main features:
 
-- Flessibile e Resistente (**35 sh/D**);
-- Piacevole al tatto;
-- Riduzione batterica **>80%** (**Gram+/Gram-**) e testato in accordo con la *Norma ISO 846*;
-- Adatto per certificazione medicale;
-- Può entrare in contatto con alimenti secondo il *Regolamento (EU) N. 10/2011*;
-- Non contiene ioni metallici né rilascia in acqua alcun elemento in forma nano o micro.
+- Flexible and Durable (**35 sh/D**);
+- Pleasant to the touch;
+- Bacterial reduction **>80%** (**Gram+**/**Gram-**) and tested according to *ISO 846* standard;
+- Suitable for medical certification;
+- Can be in contact with food according to *Regulation (EU) No. 10/2011*;
+- Does not contain metal ions or release any element in nano or micro form in water.
 
-Altre informazioni e specifiche tecniche sul materiale, sempre dal sito web ufficiale del produttore, per ulteriori approfondimenti:
+More information and technical specifications on the material, again from the manufacturer's official website, for more details:
 
-- [Scheda Tecnica](https://www.filoalfa3d.com/img/cms/MSDS%20&%20TDS/TDS%20BIOFLEX%20Antibacterial.pdf "BIOFLEX Material Data Sheet's Link") (PDF)
-- [Sicurezza](https://www.filoalfa3d.com/img/cms/MSDS%20&%20TDS/MSDS%20BIOFLEX%20Antibacterial%20.pdf "BIOFLEX Material Safety's Link") (PDF)
+- [Data Sheet](https://www.filoalfa3d.com/img/cms/MSDS%20&%20TDS/TDS%20BIOFLEX%20Antibacterial.pdf "BIOFLEX Material Data Sheet's Link") (PDF)
+- [Safety](https://www.filoalfa3d.com/img/cms/MSDS%20&%20TDS/MSDS%20BIOFLEX%20Antibacterial%20.pdf "BIOFLEX Material Safety's Link") (PDF)
 
-### <a id="7.1"></a>Immagine MS83 v1 con relativa flessibilità
+### <a id="7.1"></a>MS83 v1 image with relative flexibility
 
 ![MS83 v1](/images/MS83%20v1%20-%20flexibility.gif "MS83 Ears Support for Mask v1 flexibility")
 
-## <a id="8"></a>Materiale v2
+## <a id="8"></a>Material v2
 
-Il materiale utilizzato per realizzare l'ultima versione del prototipo è [FILOFlex by FILOALFA® Soft](https://www.filoalfa3d.com/it/content/25-filoflex "FILOFlex's Link"). Quest'ultima, è stata ottimizzata ulteriormente per il **personale sanitario ad alto rischio da contaminazione**.
+The material used to make the latest version of the prototype is [FILOFlex by FILOALFA® Soft](https://www.filoalfa3d.com/gb/content/25-filoflex "FILOFlex's Link"). The latter, has been further optimized for **healthcare personnel at high risk from contamination**.
 
-Nell'utilizzo della precedente **v1** è stata riscontrata una minor agevolezza nella vestizione con *filtrante facciale* e, dopo circa 20 decontaminazioni con *soluzione a base alcolica al 70%*, il materiale iniziava a sfilacciarsi dai bordi, in particolare, sulla parte superiore.
+When using the previous **v1**, it was found to be less comfortable to put on with *facial filter* and, after about 20 decontaminations with *70% alcohol-based solution*, the material was starting to fray from the edges, particularly, on the top.
 
-Rivedendo subito il progetto, è stata effettuata una modifica sui ganci, inoltre, è stato anche cambiato il materiale utilizzando **FILOFlex Soft**. Lo stesso era stato utilizzato nella **v0**, però nel **Medium**. Di seguito, le principali caratteristiche:
+Immediately reviewing the design, a modification was made on the hooks, in addition, the material was also changed using **FILOFlex Soft**. The same had been used in the **v0**, however in the **Medium**. Below are the main features:
 
-- Flessibile e Resistente (**80 sh/D**);
-- Alta resistenza all'usura e alla lacerazione, con mantenimento del grado di elasticità nel tempo;
-- Ottime caratteristiche fisiche di assorbimento degli urti e resistenza ai raggi UV;
-- Resistenza anche agli agenti chimici (**es: vasta gamma di prodotti chimici sia industriali che non industriali**).
+- Flexible and Durable (**80 sh/D**);
+- High resistance to wear and tear, with maintenance of the degree of elasticity over time;
+- Excellent physical characteristics of shock absorption and UV resistance;
+- Resistance also to chemical agents (**e.g., wide range of both industrial and non-industrial chemicals**).
 
-Come potete intuire, la parola chiave di questo materiale, proveniente dall'industria dell'automotive, è **RESISTENZA**.
+As you can guess, the key word of this material, coming from the automotive industry, is "**RESISTANCE**".
 
-Altre informazioni e specifiche tecniche sul materiale, sempre dal sito web ufficiale del produttore, per ulteriori approfondimenti:
+More information and technical specifications on the material, again from the manufacturer's official website, for more details:
 
-- [Scheda Tecnica](https://www.filoalfa3d.com/img/cms/MSDS%20&%20TDS/TDS%20FILOFlex%20Soft%20-%20Oct%202020.pdf "FILOFlex Material Data Sheet's Link") (PDF)
-- [Sicurezza](https://www.filoalfa3d.com/img/cms/MSDS%20FILOFLEX%2080A%20English%2019-09-2018_rev0.pdf "FILOFlex Material Safety's Link") (PDF)
+- [Data Sheet](https://www.filoalfa3d.com/img/cms/MSDS%20&%20TDS/TDS%20FILOFlex%20Soft%20-%20Oct%202020.pdf "FILOFlex Material Data Sheet's Link") (PDF)
+- [Safety](https://www.filoalfa3d.com/img/cms/MSDS%20FILOFLEX%2080A%20English%2019-09-2018_rev0.pdf "FILOFlex Material Safety's Link") (PDF)
 
-### <a id="8.1"></a>Immagine MS83 v2 con relativa flessibilità
+### <a id="8.1"></a>MS83 v2 image with relative flexibility
 
 ![MS83 v2](/images/MS83%20v2%20-%20flexibility.gif "MS83 Ears Support for Mask v2 flexibility")
 
-## <a id="9"></a>Altri materiali
+## <a id="9"></a>Other materials
 
-Il prototipo **MS83** può tranquillamente essere prodotto con altri materiali, ma è importante che essi siano *flessibili* e *resistenti*.
+The **MS83** prototype can safely be produced from other materials, but it is important that they be *flexible* and *strong*.
 
-### <a id="9.1"></a>Immagine MS83 v0 con relativa flessibilità
+### <a id="9.1"></a>MS83 v0 image with relative flexibility
 ![MS83 v0](/images/MS83%20v0%20-%20flexibility.gif "MS83 Ears Support for Mask v0 flexibility")
 
-## <a id="10"></a>Qual è la differenza con gli altri supporti?
+## <a id="10"></a>What is the difference with the other supports?
 
-Le *maschere facciali* migliori sembrano ancora essere quelle da agganciare dietro i *padiglioni auricolari*. Quindi, dall'emergenza **coronavirus**, si sono iniziati a stampare con il metodo di **produzione additiva** diversi di questi supporti, più o meno ben fatti. Di alcuni non è disponibile per tutti il file di stampa e/o li ho trovati molto invasivi e scomodi da utilizzare, soprattutto, per alcune persone anziane oppure che svolgono molte ore di lavoro consecutivamente indossandoli. Ci sono dei supporti che io ho definito "a lisca di pesce", dove penso sia difficile per molte persone anziane e/o con difficoltà psicomotorie riuscire ad indossarli correttamente. Questo perché trovare la stessa "lisca", che fa da aggancio di misura, sia nella parte sinistra, sia nella destra, potrebbe non essere per loro impresa facile e intuitiva. Altra nota dolente, invece, per quelli che prendono tutta la parte superiore del capo, come un "anello", pur essenso sottili, alla lunga, non li ritengo comodi oltre ad essere sempre molto invasivi e vistosi.
+The best *face masks* still seem to be those that clip on behind *ear cups*. So, since the **coronavirus** emergency, people have started printing with the method of **additive manufacturing** several of these supports, more or less well made. Some of them are not available for everyone the printing file and/or I found them very invasive and uncomfortable to use, especially for some elderly people or those who work many hours consecutively wearing them. There are supports that I have defined "fishbone", where I think it is difficult for many elderly people and/or with psychomotor difficulties to be able to wear them properly. This is because finding the same "fishbone", which acts as a measurement hook, both on the left side and on the right side, may not be easy and intuitive for them. Another sore point, however, for the supports that take the entire upper part of the head, like a "ring", although thin, in the long run, I do not think them comfortable as well as being always very invasive and flashy.
 
-## <a id="11"></a>A chi è rivolto?
+## <a id="11"></a>Who is it aimed at?
 
-Questo prototipo è adatto a tutti: in primis, al **personale sanitario** impegnato nelle emergenze e che, per molte ore al giorno, deve indossare la *maschera chirurgica*, in secundis, ad altre categorie di lavoratori e, ovviamente, al **privato cittadino** che la indossa quotidianamente, quando esce di casa, per proteggere se stesso e gli altri.
+This prototype is suitable for everyone: first of all, to the **healthcare personnel** engaged in emergencies and who, for many hours a day, must wear the *surgical mask*, secondly, to other categories of workers and, of course, to the **private citizen** who wears it every day, when he leaves home, to protect himself and others.
 
-**Per i più piccoli, ne consiglio l'utilizzo sotto la supervisione di un adulto.**
+**For younger children, I recommend its use under adult supervision.**
 
-## <a id="12"></a>Donazioni
+## <a id="12"></a>Donations
 
-Questo prototipo viene rilasciato in maniera completamente gratuita sotto licenza **[GNU General Public License v3.0](/LICENSE "Project's License")** (**GPLv3**), ma qualora vogliate contribuire potete farlo donando su [Ko-fi](https://ko-fi.com/adurante "Alessio's Ko-fi").
+This prototype is released completely free under **[GNU General Public License v3.0](/LICENSE "Project's License")** (**GPLv3**), but if you want to contribute you can do it donating on [Ko-fi](https://ko-fi.com/adurante "Alessio's Ko-fi").
